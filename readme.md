@@ -1,0 +1,1 @@
+Singleton in ASP.NET is fake.
